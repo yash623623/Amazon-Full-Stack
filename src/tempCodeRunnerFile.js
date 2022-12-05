@@ -1,0 +1,1 @@
+<SearchIcon className="header__searchIcon" />
